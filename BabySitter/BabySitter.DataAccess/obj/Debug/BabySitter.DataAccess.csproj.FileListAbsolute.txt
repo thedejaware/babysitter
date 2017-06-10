@@ -1,0 +1,28 @@
+D:\MVC Project\BabySitter\BabySitter.DataAccess\bin\Debug\BabySitter.DataAccess.dll.config
+D:\MVC Project\BabySitter\BabySitter.DataAccess\bin\Debug\BabySitter.DataAccess.dll
+D:\MVC Project\BabySitter\BabySitter.DataAccess\bin\Debug\BabySitter.DataAccess.pdb
+D:\MVC Project\BabySitter\BabySitter.DataAccess\bin\Debug\EntityFramework.dll
+D:\MVC Project\BabySitter\BabySitter.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\MVC Project\BabySitter\BabySitter.DataAccess\bin\Debug\EntityFramework.xml
+D:\MVC Project\BabySitter\BabySitter.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\MVC Project\BabySitter\BabySitter.DataAccess\obj\Debug\BabySitter.DataAccess.dll
+D:\MVC Project\BabySitter\BabySitter.DataAccess\obj\Debug\BabySitter.DataAccess.pdb
+D:\MVC Project\BabySitter\BabySitter.DataAccess\obj\Debug\BabySitter.DataAccess.csprojResolveAssemblyReference.cache
+D:\MVC Project\BabySitter\BabySitter.DataAccess\bin\Debug\BabySitter.Entities.dll
+D:\MVC Project\BabySitter\BabySitter.DataAccess\bin\Debug\BabySitter.Entities.pdb
+D:\MVC Project\BabySitter\BabySitter.DataAccess\obj\Debug\BabySitter.DataAccess.Migrations.InitialModel.resources
+D:\MVC Project\BabySitter\BabySitter.DataAccess\obj\Debug\BabySitter.DataAccess.csproj.GenerateResource.Cache
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.DataAccess\bin\Debug\BabySitter.DataAccess.dll.config
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.DataAccess\bin\Debug\BabySitter.DataAccess.dll
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.DataAccess\bin\Debug\BabySitter.DataAccess.pdb
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.DataAccess\bin\Debug\BabySitter.Entities.dll
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.DataAccess\bin\Debug\EntityFramework.dll
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.DataAccess\bin\Debug\BabySitter.Entities.pdb
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.DataAccess\bin\Debug\EntityFramework.xml
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.DataAccess\obj\Debug\BabySitter.DataAccess.csprojResolveAssemblyReference.cache
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.DataAccess\obj\Debug\BabySitter.DataAccess.Migrations.InitialModel.resources
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.DataAccess\obj\Debug\BabySitter.DataAccess.csproj.GenerateResource.Cache
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.DataAccess\obj\Debug\BabySitter.DataAccess.dll
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.DataAccess\obj\Debug\BabySitter.DataAccess.pdb

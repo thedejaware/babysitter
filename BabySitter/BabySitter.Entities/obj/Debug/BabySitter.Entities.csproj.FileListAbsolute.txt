@@ -1,0 +1,10 @@
+D:\MVC Project\BabySitter\BabySitter.Entities\bin\Debug\BabySitter.Entities.dll
+D:\MVC Project\BabySitter\BabySitter.Entities\bin\Debug\BabySitter.Entities.pdb
+D:\MVC Project\BabySitter\BabySitter.Entities\obj\Debug\BabySitter.Entities.dll
+D:\MVC Project\BabySitter\BabySitter.Entities\obj\Debug\BabySitter.Entities.pdb
+D:\MVC Project\BabySitter\BabySitter.Entities\obj\Debug\BabySitter.Entities.csprojResolveAssemblyReference.cache
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.Entities\bin\Debug\BabySitter.Entities.dll
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.Entities\bin\Debug\BabySitter.Entities.pdb
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.Entities\obj\Debug\BabySitter.Entities.csprojResolveAssemblyReference.cache
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.Entities\obj\Debug\BabySitter.Entities.dll
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.Entities\obj\Debug\BabySitter.Entities.pdb

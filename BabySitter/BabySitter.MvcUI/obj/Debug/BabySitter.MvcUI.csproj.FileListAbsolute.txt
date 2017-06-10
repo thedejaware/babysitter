@@ -1,0 +1,106 @@
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\ApplicationInsights.config
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\roslyn\csc.exe
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\roslyn\System.Collections.Immutable.dll
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\roslyn\vbc.exe
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\roslyn\VBCSCompiler.exe
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\roslyn\VBCSCompiler.exe.config
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\BabySitter.MvcUI.dll.config
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\BabySitter.MvcUI.dll
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\BabySitter.MvcUI.pdb
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\Microsoft.AI.DependencyCollector.dll
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\Microsoft.AI.Web.dll
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\Microsoft.AI.WindowsServer.dll
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\Microsoft.ApplicationInsights.dll
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\Microsoft.Web.Infrastructure.dll
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\System.Web.Helpers.dll
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\System.Web.Mvc.dll
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\System.Web.Razor.dll
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\System.Web.Webpages.Deployment.dll
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\System.Web.Webpages.dll
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\System.Web.Webpages.Razor.dll
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\Microsoft.AI.DependencyCollector.xml
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\Microsoft.AI.Web.xml
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\Microsoft.AI.WindowsServer.xml
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\Microsoft.ApplicationInsights.xml
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\System.Web.Razor.xml
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\System.Web.Webpages.xml
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\System.Web.Webpages.Deployment.xml
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\System.Web.Webpages.Razor.xml
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\System.Web.Helpers.xml
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\System.Web.Mvc.xml
+D:\MVC Project\BabySitter\BabySitter.MvcUI\obj\Debug\BabySitter.MvcUI.dll
+D:\MVC Project\BabySitter\BabySitter.MvcUI\obj\Debug\BabySitter.MvcUI.pdb
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\Antlr3.Runtime.dll
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\Newtonsoft.Json.dll
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\System.Web.Optimization.dll
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\WebGrease.dll
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\Antlr3.Runtime.pdb
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\Newtonsoft.Json.xml
+D:\MVC Project\BabySitter\BabySitter.MvcUI\bin\System.Web.Optimization.xml
+D:\MVC Project\BabySitter\BabySitter.MvcUI\obj\Debug\BabySitter.MvcUI.csprojResolveAssemblyReference.cache
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\ApplicationInsights.config
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\roslyn\csc.exe
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\roslyn\System.Collections.Immutable.dll
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\roslyn\vbc.exe
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\roslyn\VBCSCompiler.exe
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\roslyn\VBCSCompiler.exe.config
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\BabySitter.MvcUI.dll.config
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\BabySitter.MvcUI.dll
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\BabySitter.MvcUI.pdb
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\Antlr3.Runtime.dll
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\Microsoft.AI.DependencyCollector.dll
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\Microsoft.AI.Web.dll
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\Microsoft.AI.WindowsServer.dll
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\Microsoft.ApplicationInsights.dll
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\Microsoft.Web.Infrastructure.dll
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\Newtonsoft.Json.dll
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\System.Web.Helpers.dll
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\System.Web.Mvc.dll
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\System.Web.Optimization.dll
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\System.Web.Razor.dll
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\System.Web.Webpages.Deployment.dll
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\System.Web.Webpages.dll
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\System.Web.Webpages.Razor.dll
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\WebGrease.dll
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\Antlr3.Runtime.pdb
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\Microsoft.AI.DependencyCollector.xml
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\Microsoft.AI.Web.xml
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\Microsoft.AI.WindowsServer.xml
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\Microsoft.ApplicationInsights.xml
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\Newtonsoft.Json.xml
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\System.Web.Optimization.xml
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\System.Web.Razor.xml
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\System.Web.Webpages.xml
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\System.Web.Webpages.Deployment.xml
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\System.Web.Webpages.Razor.xml
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\System.Web.Helpers.xml
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\System.Web.Mvc.xml
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\obj\Debug\BabySitter.MvcUI.csprojResolveAssemblyReference.cache
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\obj\Debug\BabySitter.MvcUI.dll
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\obj\Debug\BabySitter.MvcUI.pdb
