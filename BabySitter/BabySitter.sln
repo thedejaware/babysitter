@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BabySitter.Business", "Baby
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BabySitter.MvcUI", "BabySitter.MvcUI\BabySitter.MvcUI.csproj", "{9986E83B-934C-4D2E-9944-6E13E1AFF0CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BabySitter.Resources", "BabySitter.Resources\BabySitter.Resources.csproj", "{43727BF5-42D9-4FFD-8179-B103C32443ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{9986E83B-934C-4D2E-9944-6E13E1AFF0CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9986E83B-934C-4D2E-9944-6E13E1AFF0CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9986E83B-934C-4D2E-9944-6E13E1AFF0CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43727BF5-42D9-4FFD-8179-B103C32443ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43727BF5-42D9-4FFD-8179-B103C32443ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43727BF5-42D9-4FFD-8179-B103C32443ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43727BF5-42D9-4FFD-8179-B103C32443ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

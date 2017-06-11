@@ -26,6 +26,7 @@ namespace BabySitter.MvcUI.App_Start
 
             //Slider Javascript Files
             bundles.Add(new ScriptBundle("~/bundles/templatejs").Include(
+                "~/Scripts/wow.min.js",
                 "~/Scripts/owl.carousel.min.js",
                 "~/Scripts/OwlCarousel2Thumbs.min.js",
                 "~/Scripts/jRate.min.js",

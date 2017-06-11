@@ -1,0 +1,10 @@
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.Resources\bin\Debug\BabySitter.Resources.dll
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.Resources\bin\Debug\BabySitter.Resources.pdb
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.Resources\obj\Debug\BabySitter.Resources.Resources.resources
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.Resources\obj\Debug\BabySitter.Resources.csproj.GenerateResource.Cache
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.Resources\obj\Debug\BabySitter.Resources.dll
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.Resources\obj\Debug\BabySitter.Resources.pdb
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.Resources\obj\Debug\BabySitter.Resources.csprojResolveAssemblyReference.cache
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.Resources\bin\Debug\en\BabySitter.Resources.resources.dll
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.Resources\obj\Debug\BabySitter.Resources.Resources.en.resources
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.Resources\obj\Debug\en\BabySitter.Resources.resources.dll

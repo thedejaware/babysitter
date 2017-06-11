@@ -1,40 +1,42 @@
-﻿<!DOCTYPE html>
+﻿@using System.Web.Optimization
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@ViewBag.Title - My ASP.ffdsfdsNET Application</title>
-    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
-    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
-    <script src="~/Scripts/modernizr-2.6.2.js"></script>
+    <meta name="description" content="Babysitters is the perfect HTML Template for your next Child Care business. Babysitters HTML containes 31 valid HTML pages with bonus 31 well organized PSDs">
+    <meta name="keywords" content="baby, babysitter html, care, caregiver, child, directory html, flat, job html, job listing, kids, light, nanny html">
+
+    <title>Babysitters - Jobs Directory</title>
+    <link rel="icon" href="@Url.Content("~/Content/images/favicon.ico")" />
+
+    @Styles.Render("~/bundles/commoncss")
 </head>
 <body>
-    <div class="navbar navbar-inverse navbar-fixed-top">
-        <div class="container">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                @Html.ActionLink("Application name", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
-            </div>
-            <div class="navbar-collapse collapse">
-                <ul class="nav navbar-nav">
-                </ul>
-            </div>
-        </div>
+    <!-- Preloader -->
+    <div id="preloader">
+        <div id="status">&nbsp;</div>
     </div>
+    <!-- >>Header/Nagigation bar-->
+    @Html.Partial("_NavBar")
+    <!-- Header/Navigation bar -->
+    <!-- BODY -->
+    @RenderBody()
+    <!-- BODY -->
+    <!-- >> footer -->
+    <br />
+    @Html.Partial("_Footer")
+    <!--  footer -->
 
-    <div class="container body-content">
-        @RenderBody()
-        <hr />
-        <footer>
-            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
-        </footer>
-    </div>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/bundles/templatejs")
+    @RenderSection("scripts", required: false)
+
+ 
+
+
     @*1q2w3e!!*@
-    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
-    <script src="~/Scripts/bootstrap.min.js"></script>
+
 </body>
 </html>

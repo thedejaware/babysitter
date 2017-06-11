@@ -104,3 +104,6 @@ D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\System.Web.
 D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\obj\Debug\BabySitter.MvcUI.csprojResolveAssemblyReference.cache
 D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\obj\Debug\BabySitter.MvcUI.dll
 D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\obj\Debug\BabySitter.MvcUI.pdb
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\BabySitter.Resources.dll
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\BabySitter.Resources.pdb
+D:\FOLDERS & FILES\GitHub\babysitter\BabySitter\BabySitter.MvcUI\bin\en\BabySitter.Resources.resources.dll

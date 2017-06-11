@@ -1,0 +1,116 @@
+﻿@using Resources;
+
+<nav class="navbar navbar-default yamm">
+    <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="@Url.Action("Index", "Home")">
+                <img src="~/Content/images/logo.png" class="logo" alt="logo">
+            </a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    @Html.ActionLink(@Resources.Homepage, "Index", "Home")
+                </li>
+
+                <li>@Html.ActionLink(@Resources.About, "Index", "About")</li>
+
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages <i class="fa fa-plus navicn"></i></a>
+                    <ul class="dropdown-menu row animated fadeIn">
+                        <li class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                            <div class="nav-head">Babysitter Listing</div>
+                            <ul class="nav-links">
+
+                                <li><a href="list-grid.html"><i class="fa fa-plus nav-link-icn"></i>Listing Grid List</a></li>
+                                <li><a href="list-full.html"><i class="fa fa-plus nav-link-icn"></i>Listing With Sidebar</a></li>
+                                <li><a href="listing-single-post.html"><i class="fa fa-plus nav-link-icn"></i>Listing Single Post</a></li>
+                                <li><a href="signup-babysitter.html"><i class="fa fa-plus nav-link-icn"></i>Signup Process</a></li>
+                                <li><a href="services.html"><i class="fa fa-plus nav-link-icn"></i>Services</a></li>
+
+                            </ul>
+
+                        </li>
+                        <li class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                            <div class="nav-head">Babysitter Events</div>
+                            <ul class="nav-links">
+
+                                <li><a href="events.html"><i class="fa fa-plus nav-link-icn"></i>Events</a></li>
+                                <li><a href="events-post.html"><i class="fa fa-plus nav-link-icn"></i>Events Single Post</a></li>
+                                <li><a href="event-calendar.html"><i class="fa fa-plus nav-link-icn"></i>Events Calendar </a></li>
+                                <li><a href="our-team.html"><i class="fa fa-plus nav-link-icn"></i>Our Team </a></li>
+                                <li><a href="our-member.html"><i class="fa fa-plus nav-link-icn"></i>Our Member</a></li>
+
+
+                            </ul>
+                        </li>
+                        <li class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                            <div class="nav-head">Woocommerce</div>
+                            <ul class="nav-links">
+                                <li><a href="shop.html"><i class="fa fa-plus nav-link-icn"></i>Shop Full List </a></li>
+                                <li><a href="shop-list-grid.html"><i class="fa fa-plus nav-link-icn"></i>Shop Grid List</a></li>
+                                <li><a href="shop-single-product.html"><i class="fa fa-plus nav-link-icn"></i>Shop Single Product </a></li>
+                                <li><a href="faq.html"><i class="fa fa-plus nav-link-icn"></i>Faq </a></li>
+                                <li><a href="contact.html"><i class="fa fa-plus nav-link-icn"></i>Contact Us </a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 no-pad">
+                                <div class="nav-banner">
+                                    <img src="~/Content/images/nav.png" alt="" class="img-responsive">
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Babysitter <i class="fa fa-plus navicn"></i></a>
+                    <ul class="dropdown-menu vertical-megamenu">
+                        <li>
+                            <ul class="nav-links">
+
+                                <li><a href="gallery.html"><i class="fa fa-plus nav-link-icn"></i>Gallery </a></li>
+                                <li><a href="calendar.html"><i class="fa fa-plus nav-link-icn"></i>Calendar </a></li>
+                                <li><a href="commingsoon.html"><i class="fa fa-plus nav-link-icn"></i>Commingsoon Page </a></li>
+                                <li><a href="404.html"><i class="fa fa-plus nav-link-icn"></i>404 Page </a></li>
+
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Blog <i class="fa fa-plus navicn"></i></a>
+                    <ul class="dropdown-menu vertical-megamenu">
+                        <li>
+                            <ul class="nav-links">
+                                <li><a href="blog.html"><i class="fa fa-plus nav-link-icn"></i>Blog Grid </a></li>
+                                <li><a href="blog-sidebar.html"><i class="fa fa-plus nav-link-icn"></i>Blog Sidebar</a></li>
+                                <li><a href="blog-post.html"><i class="fa fa-plus nav-link-icn"></i>Blog Post </a></li>
+                                <li><a href="aboutus.html"><i class="fa fa-plus nav-link-icn"></i>About Us</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li><a href="contact.html"> Contact Us <i class="fa fa-plus navicn"></i></a></li>
+                <li>
+                    @Html.ActionLink("Türkçe", "SetCulture", "Culture", new { paramCulture = "tr" }, new { @class = "flag-turkish" })
+                </li>
+                <li>
+                    @Html.ActionLink("English", "SetCulture", "Culture", new { paramCulture = "en" }, new { @class = "flag-english" })
+                </li>
+            </ul>
+
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+
+</nav>
